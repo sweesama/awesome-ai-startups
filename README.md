@@ -780,9 +780,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Ctruh Studio](https://www.ctruh.com/products/studio) - Ctruh Studio is an AI-powered no-code platform that lets anyone create, customise and publish interactive 3D experiences for websites.
 - [SVG Editor - Vector Designer](https://www.vectordesigner.info) - SVG Editor - Vector Designer is a native vector graphics editor for Mac.
 - [ImageCraft Pro](https://nanobanana.live) - A browser-based AI image editor for creating and refining images with Nano Banana technology.
-
-
-
+## ✍️ Writing & Content
 - [Orange Slice](https://orangeslice.ai) - Build any Go-To-Market workflow you can think of through natural language.
 - [Devaito](https://www.devaito.com) - Describe your business and Devaito launches the essentials for you: website, store, mobile app, SEO, blog, social media, customer support,.
 - [SNEWPapers](https://snewpapers.com) - I taught machines to read newspapers, gave them 250 years of data, extracted everything (6 million+ stories so far), separated the ads.
