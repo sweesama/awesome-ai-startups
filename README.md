@@ -751,6 +751,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Gather](https://gatherit.app) - Easily find any design references!.
 - [MAI](https://microsoft.ai) - Microsoft AI is pioneering the future of what AI can do and what technology can be.
 - [FloatPic](https://floatpic.app) - FloatPic is the ultra-minimalist macOS native image viewer.
+
+
 - [Ideogram 4.0](https://ideogram.ai/models/4.0) - Ideogram 4.0 is an open-weight text-to-image model trained from scratch, with bounding-box layout control, multilingual text rendering, and native 2K output. For developers and enterprises….
 - [Reve 2.0](https://blog.reve.com/posts/the-layout-bet) - Reve 2.0 generates and edits 4K images using a layout-first model that segments each image into addressable regions. For designers, marketers, and creative teams who need precise compositional control.
 - [Airbrush Studio](https://airbrush.com/airbrush-studio) - Airbrush Studio is an AI-powered photo editor built for creators and photographers who want professional-quality results without the complexity of manual editing.
@@ -777,8 +779,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MascotAI](https://www.appmascot.ai) - Hey hunters!.
 - [Ctruh Studio](https://www.ctruh.com/products/studio) - Ctruh Studio is an AI-powered no-code platform that lets anyone create, customise and publish interactive 3D experiences for websites.
 - [SVG Editor - Vector Designer](https://www.vectordesigner.info) - SVG Editor - Vector Designer is a native vector graphics editor for Mac.
+- [ImageCraft Pro](https://nanobanana.live) - A browser-based AI image editor for creating and refining images with Nano Banana technology.
 
-## ✍️ Writing & Content
+
 
 - [Orange Slice](https://orangeslice.ai) - Build any Go-To-Market workflow you can think of through natural language.
 - [Devaito](https://www.devaito.com) - Describe your business and Devaito launches the essentials for you: website, store, mobile app, SEO, blog, social media, customer support,.
